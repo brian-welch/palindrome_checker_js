@@ -1,4 +1,4 @@
-const str = 'oiruygyuri';
+const str = 'oiruygyuri'; // Given sample string to analyze
 const arr = str.split('');
 const palCheck = (input) => {
   let length = input.length;
